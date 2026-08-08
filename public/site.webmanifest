@@ -1,0 +1,17 @@
+{
+  "name": "Becoming Her",
+  "short_name": "Becoming Her",
+  "description": "Meaningful mentorship for middle- and high-school young women.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f6f0",
+  "theme_color": "#b9dad8",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
