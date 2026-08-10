@@ -54,7 +54,6 @@ export function HomePage() {
           <div className="home-hero__visual">
             <div className="home-hero__orb" aria-hidden="true" />
             <img className="home-hero__illustration" src="/images/home-portrait.webp" alt="Four young women standing together with their arms around one another" width="1024" height="680" fetchPriority="high" />
-            <img className="home-hero__brand-mark" src="/images/brand-mark.webp" alt="Becoming Her — Heal, Grow, Thrive" width="520" height="346" />
             <div className="hero-note hero-note--top"><Spark /><span>A circle that sees her</span></div>
             <div className="hero-note hero-note--bottom"><Heart /><span>Guidance that grows with her</span></div>
           </div>
